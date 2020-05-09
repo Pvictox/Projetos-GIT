@@ -1,2 +1,3 @@
 Eu sou o arquivo A.
 Eu fui modificado uma vez.
+Eu fui modificado duas vezes (Essa foi no branch mestre).
