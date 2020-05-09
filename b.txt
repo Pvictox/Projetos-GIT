@@ -1,0 +1,2 @@
+Eu sou o arquivo B.
+Fui modificado uma vez.
