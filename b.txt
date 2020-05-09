@@ -1,2 +1,3 @@
 Eu sou o arquivo B.
 Fui modificado uma vez.
+Fui modificado duas vezes (Essa foi no branch NovoRamo).
