@@ -1,1 +1,2 @@
 Eu sou o arquivo C.
+E fui modificado uma vez no branch NovoRamo.
